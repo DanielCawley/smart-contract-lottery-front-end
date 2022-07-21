@@ -1,0 +1,19 @@
+.enterLotteryButtonDiv {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5%;
+}
+
+.lotteryDataDiv {
+    margin-top: 1.5%;
+    margin-left: 7%;
+}
+
+.lotteryDataDiv h1 {
+    font-weight: 1000;
+    text-decoration: underline;
+}
+
+.lotteryDataDiv h2 {
+    overflow-wrap: break-word;
+}
